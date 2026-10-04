@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "930234315256",
+    "project_id": "client-dev-bridge",
+    "storage_bucket": "client-dev-bridge.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:930234315256:android:d7df12077093d7ee14660d",
+        "android_client_info": {
+          "package_name": "com.example.client_dev_bridge"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTEEN6oE2YvGldnvw9rI2jYKTMfjuM7aA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
