@@ -65,12 +65,9 @@ flutter run
 
 ---
 
-## 👥 Team Members
+## 👥 Dev by
 
-* **Lead Developer:** Omair Sadeq Aldedaa
-* **Team Member:** Abdullah Abdulmalik
-* **Team Member:** Abdullah Mohammed Qasim
-
+* **Lead Developer:** Omair Sadeq Abdulqader Ahmed Aldedaa
 ---
 
 *Developed as part of the Mobile Applications course - 2026.*
